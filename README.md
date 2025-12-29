@@ -119,9 +119,17 @@ app.run(debug=True, port=5001)  # Use different port
 
 ## Credits
 
-Built for IU South Bend Library Services.
-
 **FIFI** = Fast Information Finder Intelligence
+
+### Developed by
+**Samiksha BC** - Developer & Creator
+
+### Supervisor
+**Vincci Kwong** - Library Research Department, IU South Bend
+
+---
+
+Built for IU South Bend Library Services.
 
 ## License
 
