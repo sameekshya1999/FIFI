@@ -1,0 +1,7 @@
+PASTE_YOUR_OPENAI_API_KEY_HERE
+
+# Instructions:
+# 1. Copy this file and rename it to: api_key.txt
+# 2. Replace the line above with your actual OpenAI API key
+# 3. Your key should look like: sk-proj-xxxxxxxxxxxx
+# 4. Get your API key from: https://platform.openai.com/api-keys

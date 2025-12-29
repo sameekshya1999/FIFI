@@ -1,0 +1,146 @@
+# IU South Bend - Curated Important URLs
+# Total: ~100 frequently used URLs
+
+# ============================================
+# LIBRARY - Hours, Services, Policies
+# ============================================
+https://library.iusb.edu/
+https://library.iusb.edu/about-us/hdp.html
+https://library.iusb.edu/werc/hourslocation.html
+https://library.iusb.edu/use-library/circulation/index.html
+https://library.iusb.edu/use-library/pcs/index.html
+https://library.iusb.edu/use-library/room-reservation.html
+https://library.iusb.edu/werc/services.html
+https://library.iusb.edu/werc/library.html
+https://library.iusb.edu/werc/wideformat3d.html
+https://library.iusb.edu/research-support/subject-librarians.html
+https://library.iusb.edu/about-us/policy/index.html
+https://library.iusb.edu/about-us/policy/reserves.html
+https://library.iusb.edu/about-us/policy/library-cards.html
+https://library.iusb.edu/about-us/policy/loan-length.html
+https://library.iusb.edu/about-us/policy/fines-fees.html
+https://library.iusb.edu/about-us/policy/computer-use.html
+https://library.iusb.edu/about-us/policy/building-use.html
+https://library.iusb.edu/about-us/policy/guest.html
+
+# LibGuides - Research Help
+https://libguides.iusb.edu/schurzlibraryhelpguide
+https://libguides.iusb.edu/schurzlibraryhelpguide/introduction
+https://libguides.iusb.edu/schurzlibraryhelpguide/gettingstarted
+https://libguides.iusb.edu/schurzlibraryhelpguide/findingbooks
+https://libguides.iusb.edu/schurzlibraryhelpguide/findingjournalarticles
+https://libguides.iusb.edu/schurzlibraryhelpguide/citingsources
+https://libguides.iusb.edu/schurzlibraryhelpguide/libraryservices
+https://libguides.iusb.edu/schurzlibraryhelpguide/librarymaps
+
+# ============================================
+# ADMISSIONS
+# ============================================
+https://admissions.iusb.edu/
+https://admissions.iusb.edu/apply/index.html
+https://admissions.iusb.edu/apply/first-year.html
+https://admissions.iusb.edu/apply/transfer/index.html
+https://admissions.iusb.edu/apply/graduate.html
+https://admissions.iusb.edu/apply/adult-learners.html
+https://admissions.iusb.edu/apply/high-school.html
+https://admissions.iusb.edu/apply/non-degree-and-guest.html
+https://admissions.iusb.edu/apply/online-education.html
+https://admissions.iusb.edu/visit/index.html
+https://admissions.iusb.edu/contact/index.html
+https://admissions.iusb.edu/oiss/admissions/index.html
+https://admissions.iusb.edu/oiss/admissions/explore/costs.html
+
+# ============================================
+# TUITION & FINANCIAL AID
+# ============================================
+https://administration.iusb.edu/bursar/index.html
+https://administration.iusb.edu/bursar/billing-and-payment/index.html
+https://www.iusb.edu/students/financial-aid/index.html
+https://www.iusb.edu/students/financial-aid/types-of-aid/index.html
+https://www.iusb.edu/students/financial-aid/how-to-apply/index.html
+
+# ============================================
+# REGISTRATION & ACADEMIC CALENDAR
+# ============================================
+https://students.iusb.edu/registrar/index.html
+https://students.iusb.edu/registrar/calendars/index.html
+https://students.iusb.edu/registrar/schedule-of-classes.html
+https://students.iusb.edu/registrar/transcripts/index.html
+https://students.iusb.edu/registrar/graduation/index.html
+
+# ============================================
+# ACADEMIC PROGRAMS & DEGREES
+# ============================================
+https://www.iusb.edu/academics/index.html
+https://www.iusb.edu/degrees-majors/index.html
+https://academics.iusb.edu/graduate-program/index.html
+https://academics.iusb.edu/online-education/index.html
+https://academics.iusb.edu/honors-program/index.html
+
+# ============================================
+# COLLEGES & SCHOOLS
+# ============================================
+https://clas.iusb.edu/
+https://clas.iusb.edu/computer-science-informatics/index.html
+https://clas.iusb.edu/computer-science-informatics/people/faculty-staff.html
+https://business.iusb.edu/
+https://business.iusb.edu/about/faculty-listing/index.html
+https://education.iusb.edu/
+https://education.iusb.edu/about/faculty-and-staff/index.html
+https://arts.iusb.edu/
+https://healthscience.iusb.edu/
+https://healthscience.iusb.edu/nursing/index.html
+https://nursing.iusb.edu/
+
+# ============================================
+# STUDENT SERVICES
+# ============================================
+https://www.iusb.edu/students/index.html
+https://www.iusb.edu/advising/index.html
+https://www.iusb.edu/students/new-student-orientation/index.html
+https://students.iusb.edu/academic-success-programs/index.html
+https://academics.iusb.edu/titan-success-center/index.html
+
+# ============================================
+# CAREER SERVICES
+# ============================================
+https://www.iusb.edu/students/career-services/index.html
+https://www.iusb.edu/students/career-services/internships.html
+https://www.iusb.edu/students/career-services/handshake-home.html
+
+# ============================================
+# CAMPUS FACILITIES
+# ============================================
+https://administration.iusb.edu/parking-services/index.html
+https://www.iusb.edu/about/maps/index.html
+https://administration.iusb.edu/police/index.html
+
+# ============================================
+# ABOUT IU SOUTH BEND
+# ============================================
+https://www.iusb.edu/
+https://www.iusb.edu/about/index.html
+https://www.iusb.edu/about/contact-us.html
+https://www.iusb.edu/fast-facts/index.html
+https://www.iusb.edu/about/mission-vision-values.html
+https://www.iusb.edu/chancellor/index.html
+
+# ============================================
+# INTERNATIONAL STUDENTS
+# ============================================
+https://admissions.iusb.edu/oiss/index.html
+https://academics.iusb.edu/international-programs/index.html
+https://academics.iusb.edu/international-programs/study-abroad.html
+
+# ============================================
+# STUDENT LIFE
+# ============================================
+https://students.iusb.edu/student-life/index.html
+https://students.iusb.edu/student-life/student-organizations/index.html
+https://healthscience.iusb.edu/health-and-wellness-center/index.html
+
+# ============================================
+# MATH DEPARTMENT
+# ============================================
+https://math.iusb.edu/
+https://clas.iusb.edu/math-compsci/index.html
